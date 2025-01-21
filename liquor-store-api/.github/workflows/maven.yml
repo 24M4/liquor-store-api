@@ -1,4 +1,4 @@
-name: MAVENYML
+name: Java CI/CD With Maven
 
 on:
   push:
